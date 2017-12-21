@@ -1,0 +1,43 @@
+2017-09-05 13:41:41,482 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 7984 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 13:41:41,486 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 13:41:41,487 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 13:41:45,182 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 4.566 seconds (JVM running for 5.565)
+2017-09-05 13:42:36,825 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 800 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 13:42:36,826 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 13:42:36,827 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 13:42:39,089 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.533 seconds (JVM running for 2.916)
+2017-09-05 13:42:43,019 DEBUG (StringRedisController.java:41)- 访问set:key=lxh2,value=1001
+2017-09-05 13:50:07,968 DEBUG (StringRedisController.java:41)- 访问set:key=lxh2,value=1001
+2017-09-05 13:50:18,250 DEBUG (StringRedisController.java:48)- 访问get:key=
+2017-09-05 13:50:28,966 DEBUG (StringRedisController.java:48)- 访问get:key=lxh2
+2017-09-05 13:50:52,599 DEBUG (StringRedisController.java:41)- 访问set:key=name,value=wushiju
+2017-09-05 13:51:11,997 DEBUG (StringRedisController.java:48)- 访问get:key=name
+2017-09-05 13:52:16,634 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 5392 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 13:52:16,635 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 13:52:16,636 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 13:53:19,836 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 7716 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 13:53:19,837 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 13:53:19,838 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 13:53:48,964 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 2652 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 13:53:48,966 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 13:53:48,967 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 15:22:12,321 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 6680 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 15:22:12,323 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 15:22:12,323 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 15:22:17,812 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 6636 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 15:22:17,815 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 15:22:17,815 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 15:22:20,114 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.57 seconds (JVM running for 2.955)
+2017-09-05 15:22:36,609 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 5976 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 15:22:36,611 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 15:22:36,612 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 15:25:28,815 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 3796 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-05 15:25:28,816 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-05 15:25:28,817 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-05 15:25:31,104 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.555 seconds (JVM running for 2.931)
+2017-09-05 15:25:54,773 DEBUG (StringRedisController.java:41)- 访问set:key=name,value=wushiju
+2017-09-05 15:26:21,156 DEBUG (StringRedisController.java:41)- 访问set:key=name,value=xiaowu
+2017-09-05 15:26:24,417 DEBUG (StringRedisController.java:48)- 访问get:key=name
+2017-09-05 15:26:28,393 DEBUG (StringRedisController.java:41)- 访问set:key=name,value=xiaowu1
+2017-09-05 15:26:30,999 DEBUG (StringRedisController.java:48)- 访问get:key=name
+2017-09-05 15:27:15,268 DEBUG (ObjectRedisController.java:36)- 访问setPerson:id=1,name=wushiju,age=28

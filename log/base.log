@@ -1,0 +1,4 @@
+2017-09-08 15:58:26,273 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on wusj-PC with PID 5604 (C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis\target\classes started by wusj in C:\Users\wusj\Desktop\spring-boot\spring-boot-sample-Redis)
+2017-09-08 15:58:26,281 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v2.0.0.M3, Spring v5.0.0.RC3
+2017-09-08 15:58:26,283 INFO (SpringApplication.java:650)- No active profile set, falling back to default profiles: default
+2017-09-08 15:58:31,452 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 6.96 seconds (JVM running for 7.841)
